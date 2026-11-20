@@ -26,16 +26,12 @@ services:
     runtime: node
     rootDir: frontend
     plan: free
-    # API_URL is baked into Next's /api rewrite at build time, so it is set for both build and start.
-    buildCommand: export API_URL=http://$API_HOSTPORT && npm install && npm run build
-    startCommand: export API_URL=http://$API_HOSTPORT && npm start
+    buildCommand: npm install && npm run build
+    startCommand: npm start
     envVars:
       - key: NODE_VERSION
-        value: 20.18.0
-      - key: API_HOSTPORT
-        fromService:
-          type: web
-          name: beauty-backend
-          property: hostport
-      - key: DEMO_BASIC_AUTH
-        sync: false
+        value: 22.12.0
+      # Free services have no private network, so the frontend calls the backend's public URL.
+      # API_URL is baked into Next's /api rewrite at build time.
+      - key: API_URL
+        value: https://beauty-backend-o7m5.onrender.com
