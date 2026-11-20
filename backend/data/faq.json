@@ -1,0 +1,154 @@
+{
+ "_note": "Store FAQ. Only facts from the archived drbeautycare.org site; anything unknown is passed to the team, never invented.",
+ "topics": {
+  "payment": {
+   "kw_en": [
+    "payment",
+    "pay ",
+    "cash on delivery",
+    "cod",
+    "card",
+    "how do i pay",
+    "pay by",
+    "pay cash",
+    "cash",
+    "pay on delivery"
+   ],
+   "kw_ar": [
+    "الدفع",
+    "ادفع",
+    "عند الاستلام",
+    "كاش",
+    "بطاقة"
+   ],
+   "en": "You can pay with cash on delivery, so you only pay when your order arrives at your door. For other payment options, Dr. Shaymaa's team can confirm what's available.",
+   "ar": "يمكنكِ الدفع نقداً عند الاستلام، أي تدفعين عند وصول الطلب إلى باب منزلكِ. ولخيارات الدفع الأخرى يمكن لفريق الدكتورة شيماء تأكيد المتاح."
+  },
+  "shipping": {
+   "kw_en": [
+    "shipping",
+    "deliver",
+    "delivery",
+    "ship to",
+    "how long",
+    "when will",
+    "arrive",
+    "courier",
+    "deliver to",
+    "do you ship"
+   ],
+   "kw_ar": [
+    "الشحن",
+    "شحن",
+    "التوصيل",
+    "توصيل",
+    "متى يوصل",
+    "متى يصل",
+    "يوصل"
+   ],
+   "en": "Dr. Beauty Care delivers worldwide. The team confirms the delivery time and any charges for your area when they confirm your order.",
+   "ar": "يوفر Dr. Beauty Care الشحن إلى جميع أنحاء العالم، ويؤكد الفريق موعد التوصيل وأي رسوم لمنطقتكِ عند تأكيد الطلب."
+  },
+  "returns": {
+   "kw_en": [
+    "return",
+    "refund",
+    "exchange",
+    "damaged",
+    "wrong item"
+   ],
+   "kw_ar": [
+    "ارجاع",
+    "إرجاع",
+    "استرجاع",
+    "استبدال",
+    "تالف"
+   ],
+   "en": "For returns, refunds or exchanges, Dr. Shaymaa's team will help you directly. Leave your details and they'll get back to you.",
+   "ar": "بالنسبة للإرجاع أو الاسترداد أو الاستبدال، سيساعدكِ فريق الدكتورة شيماء مباشرة. اتركي بياناتكِ وسيتواصلون معكِ.",
+   "handoff": true
+  },
+  "order_status": {
+   "kw_en": [
+    "where is my order",
+    "order status",
+    "track my order",
+    "tracking"
+   ],
+   "kw_ar": [
+    "وين طلبي",
+    "أين طلبي",
+    "حالة الطلب",
+    "تتبع",
+    "وين الطلب"
+   ],
+   "en": "I can't see live orders in this demo, but Dr. Shaymaa's team can update you. Leave your name and number and they'll check it for you.",
+   "ar": "لا يمكنني رؤية الطلبات مباشرة في هذا العرض، لكن فريق الدكتورة شيماء يمكنه إفادتكِ. اتركي اسمكِ ورقمكِ وسيتحققون لكِ.",
+   "handoff": true
+  },
+  "offers": {
+   "kw_en": [
+    "discount",
+    "offer",
+    "promo",
+    "coupon",
+    "sale",
+    "deal"
+   ],
+   "kw_ar": [
+    "خصم",
+    "عرض",
+    "عروض",
+    "كوبون",
+    "تخفيض"
+   ],
+   "en": "Dr. Beauty Care runs offers from time to time. The team can tell you what's available right now when they confirm your order.",
+   "ar": "يقدم Dr. Beauty Care عروضاً من وقت لآخر، ويمكن للفريق إخباركِ بالعروض المتاحة حالياً عند تأكيد طلبكِ."
+  },
+  "founder": {
+   "kw_en": [
+    "who is dr",
+    "dr shaymaa",
+    "dr. shaymaa",
+    "shaymaa",
+    "founder",
+    "who are you",
+    "about the brand",
+    "about you",
+    "who owns"
+   ],
+   "kw_ar": [
+    "الدكتورة شيماء",
+    "شيماء",
+    "المؤسسة",
+    "من انتم",
+    "من أنتم",
+    "عن البراند"
+   ],
+   "en": "Dr. Beauty Care was founded by Dr. Shaymaa Abdel Nabi, a medical analyst with a background in clinical chemistry, hematology, biochemistry and physiology, and a Master's in public health management. The brand brings her science-first approach to skincare, haircare and supplements. I'm the shop's beauty advisor and help you choose from her range.",
+   "ar": "أسست Dr. Beauty Care الدكتورة شيماء عبد النبي، وهي أخصائية تحاليل طبية بخلفية في الكيمياء السريرية وأمراض الدم والكيمياء الحيوية وعلم وظائف الأعضاء، وتحمل ماجستير في إدارة الصحة العامة. وأنا مستشارة الجمال في المتجر أساعدكِ في الاختيار من مجموعتها."
+  },
+  "origin": {
+   "kw_en": [
+    "made in",
+    "where are",
+    "original",
+    "authentic",
+    "genuine",
+    "natural",
+    "ingredients",
+    "paraben",
+    "cruelty"
+   ],
+   "kw_ar": [
+    "صنع في",
+    "أصلي",
+    "اصلي",
+    "طبيعي",
+    "مكونات"
+   ],
+   "en": "Dr. Beauty Care focuses on natural ingredients. Cana Gold 24K and Luxliss are made in the USA, the hair protein treatments in Brazil, and Cystiphane in France. For a specific ingredient question, I can show you a product's details or pass it to the team.",
+   "ar": "يركز Dr. Beauty Care على المكونات الطبيعية. منتجات Cana Gold 24K وLuxliss مصنوعة في الولايات المتحدة، وعلاجات بروتين الشعر في البرازيل، وCystiphane في فرنسا. ولأي سؤال عن مكون معين يمكنني عرض تفاصيل المنتج أو تحويله للفريق."
+  }
+ }
+}

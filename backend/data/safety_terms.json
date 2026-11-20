@@ -1,0 +1,157 @@
+{
+ "_note": "Any match stops selling and hands the chat to Dr. Shaymaa's team. Checked on every message. Draft list, to be approved by Dr. Shaymaa.",
+ "en": {
+  "pregnancy": [
+   "pregnan",
+   "expecting a baby",
+   "trying to conceive",
+   "ttc"
+  ],
+  "breastfeeding": [
+   "breastfeed",
+   "breast-feed",
+   "breast feed",
+   "nursing",
+   "lactat",
+   "gave birth",
+   "postpartum",
+   "post-partum",
+   "after birth",
+   "after delivery"
+  ],
+  "medication": [
+   "medication",
+   "medicine",
+   "prescription",
+   "antibiotic",
+   "isotretinoin",
+   "roaccutane",
+   "accutane",
+   "blood thinner",
+   "steroid",
+   "hormone therapy",
+   "birth control",
+   "contraceptive pill",
+   "on pills",
+   "pills for",
+   "put me on",
+   "prescribed"
+  ],
+  "allergy": [
+   "allerg",
+   "anaphyla",
+   "hives",
+   "reaction to"
+  ],
+  "condition": [
+   "eczema",
+   "psoriasis",
+   "dermatitis",
+   "rosacea",
+   "infection",
+   "rash",
+   "bleeding",
+   "wound",
+   "diabetes",
+   "diabetic",
+   "thyroid",
+   "pcos",
+   "cancer",
+   "chemo",
+   "alopecia",
+   "bald spot",
+   "lupus",
+   "disease",
+   "my doctor",
+   "dermatologist said",
+   "surgery",
+   "anemia",
+   "anaemia",
+   "blood pressure",
+   "hypertension",
+   "heart condition",
+   "my gp",
+   "kidney",
+   "liver",
+   "epilep"
+  ],
+  "child": [
+   "my baby",
+   "my child",
+   "my son",
+   "my daughter",
+   "my kid",
+   "for kids",
+   "for children",
+   "toddler",
+   "teenager",
+   "years old girl",
+   "years old boy"
+  ]
+ },
+ "ar": {
+  "pregnancy": [
+   "حامل",
+   "الحمل",
+   "حوامل"
+  ],
+  "breastfeeding": [
+   "رضاعة",
+   "الرضاعة",
+   "ارضاع",
+   "إرضاع",
+   "مرضع",
+   "ولادة",
+   "الولادة",
+   "ولدت",
+   "نفاس"
+  ],
+  "medication": [
+   "دواء",
+   "أدوية",
+   "ادوية",
+   "وصفة طبية",
+   "مضاد حيوي",
+   "روكتان",
+   "كورتيزون",
+   "حبوب منع الحمل",
+   "هرمونات"
+  ],
+  "allergy": [
+   "حساسية",
+   "تحسس"
+  ],
+  "condition": [
+   "اكزيما",
+   "إكزيما",
+   "صدفية",
+   "التهاب",
+   "سكري",
+   "الغدة",
+   "تكيس",
+   "سرطان",
+   "كيماوي",
+   "ثعلبة",
+   "مرض",
+   "طبيبي",
+   "فقر الدم",
+   "أنيميا",
+   "عملية جراحية",
+   "مرض السكري",
+   "ضغط الدم",
+   "الضغط",
+   "القلب",
+   "الكلى",
+   "الكبد"
+  ],
+  "child": [
+   "طفلي",
+   "طفلتي",
+   "ابني",
+   "بنتي",
+   "أطفال",
+   "اطفال",
+   "للأطفال"
+  ]
+ }
+}

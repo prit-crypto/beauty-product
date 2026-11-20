@@ -1,0 +1,152 @@
+{
+ "luxliss-colour-protect": {
+  "image_url": "https://yunpan.cdn.site.joinf.com/upload/images/5459141815927378/85e557c22fad31351589234298592059/4f9036ad97582bb7919709d24fa4835c.jpg",
+  "source_page": "https://www.luxliss.com/products/hair-colour-protection-shampoo.html",
+  "match": "close"
+ },
+ "luxliss-curl-shine": {
+  "image_url": "https://yunpan.cdn.site.joinf.com/upload/images/5459141815927378/44c76056ed0d1e206ddfa31cc7e9b369/fa742edbad314ea77d8b6688d340003e.jpg",
+  "source_page": "https://www.luxliss.com/products/curl-shine-shampoo.html",
+  "match": "close"
+ },
+ "luxliss-nourish-gloss": {
+  "image_url": "https://yunpan.cdn.site.joinf.com/upload/images/5459141815927378/1ea8fb33e8d49bf4af9cceabde767c7b/bc0aec8ac8c8d29937deb19fe41a35e2.jpg",
+  "source_page": "https://www.luxliss.com/products/gloss-shampoo.html",
+  "match": "close"
+ },
+ "luxliss-repair-restore": {
+  "image_url": "https://yunpan.cdn.site.joinf.com/upload/images/5459141815927378/000c860175f274879a0906c8247e9e95/e204cdf0467a7c2dc97567526a783e20.jpg",
+  "source_page": "https://www.luxliss.com/products/repair-shampoo.html",
+  "match": "close"
+ },
+ "luxliss-volume-boost": {
+  "image_url": "https://yunpan.cdn.site.joinf.com/upload/images/5459141815927378/36f0255695d2fd11fe1531f553eff398/887219a2ae5cc5a094d659be4d17e96c.jpg",
+  "source_page": "https://www.luxliss.com/products/hair-volume-shampoo.html",
+  "match": "close"
+ },
+ "luxliss-argan-serum": {
+  "image_url": "https://yunpan.cdn.site.joinf.com/upload/images/5459141815927378/7feaae57815bf27efd5260ea06bd6360/eb6a99b6d64da52079ed0a3dadaf2bd0.jpg",
+  "source_page": "https://www.luxliss.com/products/argan-oil-hair-serum.html",
+  "match": "exact"
+ },
+ "luxliss-argan-mask": {
+  "image_url": "https://yunpan.cdn.site.joinf.com/upload/images/5459141815927378/238d111ea5bcaca27a1fc5a852777c8f/4d6cc9b5cb4669fc3ff364c1f9bce6d9.jpg",
+  "source_page": "https://www.luxliss.com/products/argan-oil-mask.html",
+  "match": "exact"
+ },
+ "luxliss-argan-wash": {
+  "image_url": "https://yunpan.cdn.site.joinf.com/upload/images/5459141815927378/68ca50d01f88e3e2c7ff98d8646b532a/b9378be85fb881d62c57e78eed50b930.png",
+  "source_page": "https://www.luxliss.com/products/argan-oil-shampoo.html",
+  "match": "close"
+ },
+ "cystiphane-dandruff": {
+  "image_url": "https://media.myaster.com/images/assets/1023941-1new.jpg",
+  "source_page": "https://www.myaster.com/en/online-pharmacy/p/biorga-cystiphane-anti-dandruff-shampoo-s-200ml/1023941",
+  "match": "exact"
+ },
+ "cystiphane-shampoo": {
+  "image_url": "https://bailleul.com/1372/anti-hair-loss-shampoo.jpg",
+  "source_page": "https://bailleul.com/cystiphane-strength-and-vitality/826-anti-hair-loss-shampoo.html",
+  "match": "exact"
+ },
+ "cystiphane-lotion": {
+  "image_url": "https://ecombe.nahdionline.com/media/catalog/product/c/y/cystiphane-anti-hairloss-lotion-125ml-0ajpg.jpg",
+  "source_page": "https://www.nahdionline.com/en-ae/cystiphane-anti-hair-loss-lotion-125-milliliters/pdp/103038386",
+  "match": "exact"
+ },
+ "cystiphane-tablets": {
+  "image_url": "https://ecombe.nahdionline.com/media/catalog/product/c/y/cystiphane-tab-120s-0apng.png",
+  "source_page": "https://www.nahdionline.com/en-sa/cystiphane-tablets-120/pdp/103038159",
+  "match": "exact"
+ },
+ "ivybears-boost-immune": {
+  "image_url": "https://cdn.shopify.com/s/files/1/0598/4544/3632/files/2026-boost-immune-1.webp?v=1769571536",
+  "source_page": "https://www.ivybears.com/products/ivybears-boost-immune",
+  "match": "exact"
+ },
+ "ivybears-vibrant-skin": {
+  "image_url": "https://cdn.shopify.com/s/files/1/0598/4544/3632/files/2026-vibrant-skin-1.webp?v=1769571929",
+  "source_page": "https://www.ivybears.com/products/vibrant-skin",
+  "match": "exact"
+ },
+ "ivybears-women-hair": {
+  "image_url": "https://cdn.shopify.com/s/files/1/0598/4544/3632/files/2026-womens-hair-1.webp?v=1769522022",
+  "source_page": "https://www.ivybears.com/products/womens-hair-vitamins",
+  "match": "exact"
+ },
+ "ivybears-hair": {
+  "image_url": "https://cdn.shopify.com/s/files/1/0598/4544/3632/files/2026-mens-hair-1.webp?v=1769572256",
+  "source_page": "https://www.ivybears.com/products/mens-hair-vitamins",
+  "match": "exact"
+ },
+ "ivybears-restful-sleep": {
+  "image_url": "https://cdn.shopify.com/s/files/1/0598/4544/3632/files/2026-restful-sleep-1.webp?v=1769571723",
+  "source_page": "https://www.ivybears.com/products/restful-sleep",
+  "match": "exact"
+ },
+ "cana-body-scrub": {
+  "image_url": "https://web.archive.org/web/20250826101252im_/https://canagoldbeauty.com/wp-content/uploads/2018/12/24K-GOld-Premium-Body-Scrub-Jasminehome.png",
+  "source_page": "https://web.archive.org/web/20221103/https://canagoldbeauty.com/",
+  "match": "exact"
+ },
+ "cana-body-butter": {
+  "image_url": "https://web.archive.org/web/20250826102850im_/https://canagoldbeauty.com/wp-content/uploads/2018/12/24K-Premium-Body-Butter-Jasmine.png",
+  "source_page": "https://web.archive.org/web/20221103/https://canagoldbeauty.com/",
+  "match": "exact"
+ },
+ "cana-neck-serum": {
+  "image_url": "https://web.archive.org/web/20250826094733im_/https://canagoldbeauty.com/wp-content/uploads/2019/07/24K-Gold-Caviar-2-in-1-Anti-Aging-Neck-DeCollete-300x300.png",
+  "source_page": "https://web.archive.org/web/20250418141204/https://canagoldbeauty.com/product/24k-gold-caviar-2-in-1-anti-aging-neck-decollete/",
+  "match": "exact"
+ },
+ "cana-brightening-serum": {
+  "image_url": "https://web.archive.org/web/20220319211904im_/https://canagoldbeauty.com/wp-content/uploads/2018/12/24k-Gold-Caviar-2-in-1-Brightening-Whitening-Treatment-300x300.png",
+  "source_page": "https://web.archive.org/web/20250211190311/https://canagoldbeauty.com/product/24k-gold-caviar-2-in-1-brightening-whitening-treatment/",
+  "match": "exact"
+ },
+ "cana-hydro-serum": {
+  "image_url": "https://web.archive.org/web/20250826123311im_/https://canagoldbeauty.com/wp-content/uploads/2018/12/Hydro-Boosting-300x300.png",
+  "source_page": "https://web.archive.org/web/20250422152706/https://canagoldbeauty.com/product/24k-gold-caviar-2-in-1-hydro-boosting-daily-treatment/",
+  "match": "exact"
+ },
+ "cana-instant-lifting": {
+  "image_url": "https://web.archive.org/web/20250826110517im_/https://canagoldbeauty.com/wp-content/uploads/2019/04/Non-Surgical.png",
+  "source_page": "https://web.archive.org/web/20221103/https://canagoldbeauty.com/",
+  "match": "exact"
+ },
+ "cana-deep-peel": {
+  "image_url": "https://web.archive.org/web/20250826123534im_/https://canagoldbeauty.com/wp-content/uploads/2018/12/24K-Gold-Deep-Facial-Peel-300x300.png",
+  "source_page": "https://web.archive.org/web/20250423054514/https://canagoldbeauty.com/product/24k-gold-deep-facial-peel/",
+  "match": "exact"
+ },
+ "cana-collagen-mask": {
+  "image_url": "https://web.archive.org/web/20220401034652im_/https://canagoldbeauty.com/wp-content/uploads/2018/12/24K-Gold-Collagen-Mask-1-600x689.png",
+  "source_page": "https://web.archive.org/web/20250325011455/https://canagoldbeauty.com/product/24k-instant-lifting-solution/",
+  "match": "exact"
+ },
+ "cana-magnetic-mask": {
+  "image_url": "https://web.archive.org/web/20220328034216im_/https://canagoldbeauty.com/wp-content/uploads/2018/12/24K-Gold-Magnetic-Mask-1.png",
+  "source_page": "https://web.archive.org/web/20250422163011/https://canagoldbeauty.com/product/24k-gold-magnetic-mask/",
+  "match": "exact"
+ },
+ "cana-rejuvenating-set": {
+  "image_url": "https://web.archive.org/web/20220401041349im_/https://canagoldbeauty.com/wp-content/uploads/2019/03/24K-Daily-Rejuvenating-Skin-Treatment-Gift-Set-1.png",
+  "source_page": "https://web.archive.org/web/20250326221401/https://canagoldbeauty.com/product/gift-set-24k-daily-rejuvenating-skin-treatment/",
+  "match": "exact"
+ },
+ "cana-daily-set": {
+  "image_url": "https://web.archive.org/web/20220327151014im_/https://canagoldbeauty.com/wp-content/uploads/2019/03/24K-Gold-Caviar-2-in-1-Hydro_boosting-Daily-Treatment-600x689.png",
+  "source_page": "https://web.archive.org/web/20250325030229/https://canagoldbeauty.com/product/gift-set-24k-daily-application-treatment/",
+  "match": "close"
+ },
+ "cana-overnight-set": {
+  "image_url": "https://web.archive.org/web/20250826102140im_/https://canagoldbeauty.com/wp-content/uploads/2019/03/Gift-Set-24k-Over-Night-Application-Treatment-home.png",
+  "source_page": "https://web.archive.org/web/20250211181420/https://canagoldbeauty.com/product/gift-set-24k-over-night-application-treatment/",
+  "match": "exact"
+ },
+ "cana-pearl-set": {
+  "image_url": "https://web.archive.org/web/20250826122459im_/https://canagoldbeauty.com/wp-content/uploads/2018/12/Gift-Set-Non-Surgical-Instant-Lifting-Mask-Hebe-home.png",
+  "source_page": "https://web.archive.org/web/20250521235735/https://canagoldbeauty.com/product/non-surgical-instant-lifting-mask-hebe-gift-set-4/",
+  "match": "close"
+ }
+}

@@ -1,0 +1,188 @@
+{
+ "_note": "Needs Dr. Beauty Care's range does not cover. The assistant says so plainly. An alternative is offered only when a real product reasonably fits, always with a clear label. Review with the shop.",
+ "needs": {
+  "acne": {
+   "en": "acne or breakouts",
+   "ar": "حب الشباب",
+   "kw_en": [
+    "acne",
+    "pimple",
+    "breakout",
+    "zit",
+    "spots on my face"
+   ],
+   "kw_ar": [
+    "حبوب الوجه",
+    "حب الشباب",
+    "بثور"
+   ],
+   "alternative": null,
+   "team": true
+  },
+  "sunscreen": {
+   "en": "sunscreen",
+   "ar": "واقي الشمس",
+   "kw_en": [
+    "sunscreen",
+    "sun screen",
+    "spf",
+    "sunblock",
+    "sun block"
+   ],
+   "kw_ar": [
+    "واقي شمس",
+    "واقي الشمس",
+    "صن بلوك"
+   ],
+   "alternative": null
+  },
+  "cleanser": {
+   "en": "a face wash or cleanser",
+   "ar": "غسول الوجه",
+   "kw_en": [
+    "face wash",
+    "facewash",
+    "cleanser",
+    "cleansing gel",
+    "makeup remover"
+   ],
+   "kw_ar": [
+    "غسول",
+    "منظف الوجه",
+    "مزيل مكياج"
+   ],
+   "alternative": "nn1-toner",
+   "alt_en": "The {product} isn't a face wash, but its description says it gently cleanses and hydrates, so it can follow your usual cleanser.",
+   "alt_ar": "{product} ليس غسولاً للوجه، لكنه حسب وصفه ينظف البشرة بلطف ويرطبها، ويمكن استخدامه بعد غسولكِ المعتاد."
+  },
+  "grey_hair": {
+   "en": "grey hair or hair dye",
+   "ar": "الشيب أو صبغة الشعر",
+   "kw_en": [
+    "grey hair",
+    "gray hair",
+    "white hair",
+    "hair dye",
+    "cover grey",
+    "cover gray"
+   ],
+   "kw_ar": [
+    "شيب",
+    "شعر ابيض",
+    "صبغة شعر"
+   ],
+   "alternative": null
+  },
+  "feet": {
+   "en": "foot care",
+   "ar": "العناية بالقدمين",
+   "kw_en": [
+    "feet",
+    "foot",
+    "heel",
+    "heels",
+    "toes"
+   ],
+   "kw_ar": [
+    "قدم",
+    "القدمين",
+    "رجلي",
+    "كعب"
+   ],
+   "alternative": "cana-body-butter",
+   "alt_en": "We don't have a dedicated foot cream, but the {product} is a rich body butter that locks in moisture, which can help dry skin on the feet too.",
+   "alt_ar": "لا يوجد لدينا كريم مخصص للقدمين، لكن {product} زبدة جسم غنية تحبس الترطيب، ويمكن أن تساعد البشرة الجافة في القدمين أيضاً.",
+   "overrides_concerns": true
+  },
+  "body_marks": {
+   "en": "stretch marks or cellulite",
+   "ar": "علامات التمدد أو السيلوليت",
+   "kw_en": [
+    "stretch mark",
+    "cellulite"
+   ],
+   "kw_ar": [
+    "علامات التمدد",
+    "تشققات",
+    "سيلوليت"
+   ],
+   "alternative": null,
+   "overrides_concerns": true
+  },
+  "lips_nails": {
+   "en": "lip, nail or lash care",
+   "ar": "العناية بالشفاه أو الأظافر أو الرموش",
+   "kw_en": [
+    "lips",
+    "lip balm",
+    "nails",
+    "nail",
+    "eyelash",
+    "lashes",
+    "eyebrow"
+   ],
+   "kw_ar": [
+    "شفايف",
+    "الشفاه",
+    "اظافر",
+    "رموش",
+    "حواجب"
+   ],
+   "alternative": null,
+   "overrides_concerns": true
+  },
+  "makeup_fragrance": {
+   "en": "makeup, perfume or deodorant",
+   "ar": "المكياج أو العطور أو مزيل العرق",
+   "kw_en": [
+    "makeup",
+    "make-up",
+    "foundation",
+    "lipstick",
+    "mascara",
+    "perfume",
+    "fragrance",
+    "deodorant"
+   ],
+   "kw_ar": [
+    "مكياج",
+    "عطر",
+    "مزيل عرق",
+    "روج"
+   ],
+   "alternative": null
+  },
+  "beard": {
+   "en": "beard care",
+   "ar": "العناية باللحية",
+   "kw_en": [
+    "beard",
+    "moustache",
+    "mustache"
+   ],
+   "kw_ar": [
+    "لحية",
+    "شنب"
+   ],
+   "alternative": null,
+   "overrides_concerns": true
+  },
+  "weight": {
+   "en": "weight loss",
+   "ar": "إنقاص الوزن",
+   "kw_en": [
+    "weight loss",
+    "lose weight",
+    "slimming",
+    "fat burner"
+   ],
+   "kw_ar": [
+    "انقاص الوزن",
+    "تخسيس",
+    "رجيم"
+   ],
+   "alternative": null,
+   "team": true
+  }
+ }
+}

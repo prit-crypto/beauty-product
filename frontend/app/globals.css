@@ -1,0 +1,91 @@
+@import "tailwindcss";
+
+/* Dr. Beauty Care brand tokens, taken from the archived drbeautycare.org theme and logo. */
+:root {
+  --gold: #b5822d;
+  --gold-dark: #8f6520;
+  --gold-light: #d9b56f;
+  --cream: #f7f7ed;
+  --line: #e8d9bd;
+  --ink: #3a3a3a;
+  --black: #000000;
+  --white: #ffffff;
+  --muted: #6f6a60;
+}
+
+@theme inline {
+  --color-gold: var(--gold);
+  --color-gold-dark: var(--gold-dark);
+  --color-gold-light: var(--gold-light);
+  --color-cream: var(--cream);
+  --color-line: var(--line);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --font-serif: var(--font-cardo), Georgia, serif;
+  --font-sans: var(--font-lato), "Helvetica Neue", Arial, sans-serif;
+  --font-arabic: var(--font-naskh), "Noto Naskh Arabic", serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--white);
+  color: var(--ink);
+  font-family: var(--font-lato), "Helvetica Neue", Arial, sans-serif;
+}
+
+[dir="rtl"],
+:lang(ar) {
+  font-family: var(--font-naskh), "Noto Naskh Arabic", serif;
+}
+/* English messages inside an Arabic chat keep the English font (after switching language) */
+[dir="rtl"] [dir="ltr"] {
+  font-family: var(--font-lato), "Helvetica Neue", Arial, sans-serif;
+}
+
+.gold-sheen {
+  background:
+    radial-gradient(1200px 400px at 85% -10%, rgba(217, 181, 111, 0.28), transparent 60%),
+    radial-gradient(800px 300px at -10% 110%, rgba(181, 130, 45, 0.12), transparent 60%),
+    var(--cream);
+}
+
+.gold-rule {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+}
+
+.btn-gold {
+  background: var(--gold);
+  color: var(--white);
+  border: 1px solid var(--gold);
+  transition: background 0.15s ease;
+}
+.btn-gold:hover {
+  background: var(--gold-dark);
+  border-color: var(--gold-dark);
+}
+.btn-outline {
+  background: transparent;
+  color: var(--gold-dark);
+  border: 1px solid var(--gold);
+  transition: background 0.15s ease, color 0.15s ease;
+}
+.btn-outline:hover {
+  background: var(--gold);
+  color: var(--white);
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.rise {
+  animation: rise 0.2s ease-out;
+}
+@media (prefers-reduced-motion: reduce) {
+  .rise { animation: none; }
+  html { scroll-behavior: auto; }
+}

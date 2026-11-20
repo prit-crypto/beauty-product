@@ -1,0 +1,99 @@
+{
+ "_note": "Claims the assistant must never make. Each pattern is rewritten to safer wording. Draft list, to be approved by Dr. Shaymaa or her regulatory adviser.",
+ "en": [
+  {
+   "pattern": "\\bbrightening (?:and|&) whitening\\b",
+   "replace": "brightening"
+  },
+  {
+   "pattern": "\\bwhitening (?:and|&) brightening\\b",
+   "replace": "brightening"
+  },
+  {
+   "pattern": "\\bstops? (?:your )?hair[- ]?loss\\b",
+   "replace": "helps reduce hair fall"
+  },
+  {
+   "pattern": "\\bprevents? hair[- ]?loss\\b",
+   "replace": "helps reduce hair fall"
+  },
+  {
+   "pattern": "\\bcures?\\b",
+   "replace": "cares for"
+  },
+  {
+   "pattern": "\\bcured\\b",
+   "replace": "cared for"
+  },
+  {
+   "pattern": "\\bheals?\\b",
+   "replace": "soothes"
+  },
+  {
+   "pattern": "\\btreats\\b",
+   "replace": "cares for"
+  },
+  {
+   "pattern": "\\btreat (?=(?:hair|acne|eczema|psoriasis|dandruff|loss|wrinkles|pigmentation|the condition))",
+   "replace": "care for "
+  },
+  {
+   "pattern": "\\bguarantee[sd]?\\b",
+   "replace": "designed"
+  },
+  {
+   "pattern": "\\bpermanent(?:ly)?\\b",
+   "replace": "lasting"
+  },
+  {
+   "pattern": "\\bre-?grows?\\b",
+   "replace": "supports"
+  },
+  {
+   "pattern": "\\bmedical[- ]grade\\b",
+   "replace": "professional"
+  },
+  {
+   "pattern": "\\bno side effects\\b",
+   "replace": "a gentle formula"
+  },
+  {
+   "pattern": "\\bwhitening\\b",
+   "replace": "brightening"
+  },
+  {
+   "pattern": "\\bwhiten(?:s)?\\b",
+   "replace": "brighten"
+  }
+ ],
+ "ar": [
+  {
+   "pattern": "تبييض",
+   "replace": "تفتيح"
+  },
+  {
+   "pattern": "يوقف تساقط الشعر",
+   "replace": "يساعد على تقليل تساقط الشعر"
+  },
+  {
+   "pattern": "علاج نهائي",
+   "replace": "عناية"
+  },
+  {
+   "pattern": "يعالج",
+   "replace": "يعتني بـ"
+  },
+  {
+   "pattern": "يشفي",
+   "replace": "يهدئ"
+  },
+  {
+   "pattern": "مضمون",
+   "replace": "مصمم"
+  },
+  {
+   "pattern": "نتائج دائمة",
+   "replace": "نتائج تدوم"
+  }
+ ]
+}

@@ -1,0 +1,597 @@
+{
+ "cystiphane-dandruff": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Anti-dandruff shampoo that cleanses the scalp, removes flakes, and soothes itching.",
+  "tags_ok": true,
+  "wrong_tags": [],
+  "missing_tags": [],
+  "main_use": "Cleanses scalp, eliminates dandruff, and soothes itchiness",
+  "not_suitable_for": ""
+ },
+ "cystiphane-shampoo": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Vitamin B6, cystine, and zinc shampoo providing protection against hair loss.",
+  "tags_ok": true,
+  "wrong_tags": [],
+  "missing_tags": [],
+  "main_use": "Protection against hair loss",
+  "not_suitable_for": ""
+ },
+ "cystiphane-lotion": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Scalp lotion that fortifies and strengthens thinning, weaker hair to prolong its lifespan and delay falling.",
+  "tags_ok": true,
+  "wrong_tags": [],
+  "missing_tags": [],
+  "main_use": "Fortifying hair to delay fall and prolong lifespan",
+  "not_suitable_for": ""
+ },
+ "cystiphane-tablets": {
+  "summary_ok": false,
+  "summary_issue": "Mentions consulting Dr. Shaymaa's team which is not in the original description.",
+  "better_summary": "Oral supplement with cystine and zinc to help reduce hair loss and support healthy hair growth.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "hair_fall"
+  ],
+  "missing_tags": [
+   "hair_growth"
+  ],
+  "main_use": "Supports hair growth and helps reduce hair loss",
+  "not_suitable_for": ""
+ },
+ "cystiphane-trio": {
+  "summary_ok": false,
+  "summary_issue": "Mentions checking with the team, which is operational advice not supported by the product description.",
+  "better_summary": "A three-step trio with tablets, lotion, and shampoo to reduce hair loss and support strong hair growth.",
+  "tags_ok": true,
+  "wrong_tags": [],
+  "missing_tags": [],
+  "main_use": "Comprehensive three-step system to combat hair loss and encourage growth",
+  "not_suitable_for": ""
+ },
+ "luxliss-colour-protect": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Argan, quinoa, and rose oil formula that cleans, moisturizes, and protects color-treated hair against fade.",
+  "tags_ok": true,
+  "wrong_tags": [],
+  "missing_tags": [],
+  "main_use": "Protect color-treated hair against fade and moisturize",
+  "not_suitable_for": ""
+ },
+ "luxliss-curl-shine": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Blended with shea butter, jojoba oil, and keratin to moisturize, detangle, and add shine to curly hair.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "frizz"
+  ],
+  "missing_tags": [],
+  "main_use": "Moisturizes, detangles, and adds shine to curly hair",
+  "not_suitable_for": ""
+ },
+ "luxliss-argan-serum": {
+  "summary_ok": false,
+  "summary_issue": "Claims of smooth, shiny, and frizz-free ends are not mentioned in the original description.",
+  "better_summary": "Finishing and conditioning serum enriched with argan oil and keratin to protect and condition hair.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "frizz"
+  ],
+  "missing_tags": [],
+  "main_use": "Long-term hair conditioning and environmental protection",
+  "not_suitable_for": ""
+ },
+ "luxliss-nourish-gloss": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Hydrating shampoo and conditioner that eliminates frizz, detangles, and nourishes for soft, silky hair.",
+  "tags_ok": true,
+  "wrong_tags": [],
+  "missing_tags": [],
+  "main_use": "Nourish scalp, tame frizz, and protect hair from damage",
+  "not_suitable_for": ""
+ },
+ "luxliss-repair-restore": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Blended with coconut oil, castor oil, and hyaluronic acid to deeply hydrate and repair dry, damaged hair.",
+  "tags_ok": true,
+  "wrong_tags": [],
+  "missing_tags": [],
+  "main_use": "Deeply hydrates, nourishes, and repairs dry, damaged hair.",
+  "not_suitable_for": ""
+ },
+ "luxliss-volume-boost": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Volumizing shampoo that adds body, fullness, and nourishment from roots to ends for bouncy hair.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "thinning"
+  ],
+  "missing_tags": [],
+  "main_use": "adds volume and body to flat limp hair",
+  "not_suitable_for": ""
+ },
+ "luxliss-argan-mask": {
+  "summary_ok": false,
+  "summary_issue": "Weekly usage claim is not mentioned in the original description.",
+  "better_summary": "Keratin and argan oil mask that restructures, fortifies, and repairs damaged and color-treated hair.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "frizz"
+  ],
+  "missing_tags": [],
+  "main_use": "Restructures and repairs damaged and color-treated hair",
+  "not_suitable_for": ""
+ },
+ "luxliss-argan-wash": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Sulfate-free argan oil shampoo and conditioner restoring moisture, shine, and softness to dry, damaged hair.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "frizz"
+  ],
+  "missing_tags": [],
+  "main_use": "Restoring moisture and repairing chemically damaged or color-treated hair",
+  "not_suitable_for": ""
+ },
+ "hair-elixir": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Scalp elixir with vitamins, collagen, and keratin for healthier, stronger, and fuller-looking hair.",
+  "tags_ok": false,
+  "wrong_tags": [],
+  "missing_tags": [
+   "dry_damaged"
+  ],
+  "main_use": "Nourish scalp to support fuller hair and revitalize dull, damaged hair",
+  "not_suitable_for": ""
+ },
+ "luxliss-argan-collection": {
+  "summary_ok": false,
+  "summary_issue": "Summary omits the serum which is included in the title, and does not mention any functional benefit.",
+  "better_summary": "Argan oil hair set to restore moisture, protect color, and shield from heat and chemical damage.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "frizz"
+  ],
+  "missing_tags": [],
+  "main_use": "Restoring moisture and protecting color and chemically treated hair",
+  "not_suitable_for": ""
+ },
+ "protein-nano-gold-botox": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Nourishing protein and botox treatment that eliminates frizz, restores shine, and smooths or straightens damaged hair.",
+  "tags_ok": false,
+  "wrong_tags": [],
+  "missing_tags": [
+   "flat_volume"
+  ],
+  "main_use": "Smooth, straighten, and eliminate frizz for damaged or fine hair",
+  "not_suitable_for": ""
+ },
+ "protein-original-therapy": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Repairing protein therapy that strengthens, moisturizes, and straightens dry, frizzy, and damaged hair.",
+  "tags_ok": false,
+  "wrong_tags": [],
+  "missing_tags": [
+   "hair_fall",
+   "thinning"
+  ],
+  "main_use": "Strengthening, repairing, and straightening dry, frizzy, and damaged hair",
+  "not_suitable_for": ""
+ },
+ "protein-cleopatra": {
+  "summary_ok": false,
+  "summary_issue": "The original description is empty, so claims cannot be verified.",
+  "better_summary": "Brazilian Cleopatra hair protein treatment.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "frizz",
+   "straightening"
+  ],
+  "missing_tags": [],
+  "main_use": "Hair protein treatment",
+  "not_suitable_for": ""
+ },
+ "protein-macadamia-filler": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Oil-rich straightening treatment that controls frizz and volume while filling cuticles and compensating for damage.",
+  "tags_ok": false,
+  "wrong_tags": [],
+  "missing_tags": [
+   "dry_damaged"
+  ],
+  "main_use": "Straightening and controlling frizz while compensating for chemical and environmental damage",
+  "not_suitable_for": ""
+ },
+ "protein-oily-extra-power": {
+  "summary_ok": false,
+  "summary_issue": "The original description is empty, so there is no text to support the summary claims.",
+  "better_summary": "Hair protein treatment product.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "frizz",
+   "straightening"
+  ],
+  "missing_tags": [],
+  "main_use": "Hair protein treatment",
+  "not_suitable_for": ""
+ },
+ "protein-smart-detox": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Hair treatment with biotin, caviar, and Brazilian oils to straighten, nourish, and reduce volume.",
+  "tags_ok": true,
+  "wrong_tags": [],
+  "missing_tags": [],
+  "main_use": "Straightens, nourishes, and reduces volume in frizzy and damaged hair",
+  "not_suitable_for": ""
+ },
+ "nn1-toner": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Gentle, hydrating toner that cleanses the skin and reduces the appearance and size of pores.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "dullness"
+  ],
+  "missing_tags": [
+   "dryness"
+  ],
+  "main_use": "Gently cleanses, hydrates skin, and reduces the appearance of pores",
+  "not_suitable_for": ""
+ },
+ "nn1-day-cream": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Light day cream with collagen, elastin, and hyaluronic acid for firmer, younger-looking skin.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "dryness"
+  ],
+  "missing_tags": [],
+  "main_use": "Reduces wrinkles and fine lines for visibly firmer, younger-looking skin.",
+  "not_suitable_for": ""
+ },
+ "nn1-exfoliant": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Gentle arrowroot and fruit-enzyme scrub to deeply exfoliate and hydrate for radiant, smooth skin.",
+  "tags_ok": false,
+  "wrong_tags": [],
+  "missing_tags": [
+   "dryness"
+  ],
+  "main_use": "Gently exfoliates dead skin cells and hydrates for smoother, radiant skin",
+  "not_suitable_for": ""
+ },
+ "nn1-night-cream": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Plumping night moisturiser that helps smooth away wrinkles and fine lines.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "dryness",
+   "dullness"
+  ],
+  "missing_tags": [],
+  "main_use": "Smooth away wrinkles and fine lines overnight",
+  "not_suitable_for": ""
+ },
+ "nn1-brightening-cream": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Licorice, bearberry and rice extracts brighten skin tone, reduce hyperpigmentation, and nourish skin.",
+  "tags_ok": false,
+  "wrong_tags": [],
+  "missing_tags": [
+   "dryness"
+  ],
+  "main_use": "Brighten skin tone, reduce hyperpigmentation, and hydrate skin.",
+  "not_suitable_for": ""
+ },
+ "nn1-eye-cream": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Light eye cream for puffiness, dark circles and fine lines around the eyes.",
+  "tags_ok": true,
+  "wrong_tags": [],
+  "missing_tags": [],
+  "main_use": "Nourishes under-eye area reducing puffiness, dark circles, and fine lines",
+  "not_suitable_for": ""
+ },
+ "cana-body-scrub": {
+  "summary_ok": false,
+  "summary_issue": "The original description emphasizes radiant glow, antioxidant benefits, and exfoliation, but does not explicitly mention making skin 'soft'.",
+  "better_summary": "Exfoliating 24K gold body scrub designed to give skin a positively radiant glow.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "body_texture"
+  ],
+  "missing_tags": [
+   "dullness",
+   "texture"
+  ],
+  "main_use": "Exfoliating the body for a radiant skin glow",
+  "not_suitable_for": ""
+ },
+ "cana-body-butter": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Rich body butter formulated with omega-3 and antioxidants to lock in moisture after showering.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "body_dryness"
+  ],
+  "missing_tags": [
+   "dryness"
+  ],
+  "main_use": "Lock in moisture and protect skin barrier against dry elements.",
+  "not_suitable_for": ""
+ },
+ "cana-toner": {
+  "summary_ok": false,
+  "summary_issue": "Rose water and jasmine are only in the title, not mentioned in the description text as functional claims.",
+  "better_summary": "Facial toner that removes environmental residues, hydrates, brightens, and reduces signs of aging.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "pores"
+  ],
+  "missing_tags": [
+   "fine_lines",
+   "dryness"
+  ],
+  "main_use": "Hydrates skin, brightens complexion, and targets wrinkles and blemishes",
+  "not_suitable_for": ""
+ },
+ "cana-moisturizer": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Rich 24K gold daily moisturizer for face, neck, and chest that hydrates and adds a healthy sheen.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "fine_lines"
+  ],
+  "missing_tags": [],
+  "main_use": "Daily moisturizing for face, neck, and chest to prevent extreme dryness.",
+  "not_suitable_for": ""
+ },
+ "cana-neck-serum": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Gold and caviar serum designed for the neck and chest area.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "sagging",
+   "fine_lines"
+  ],
+  "missing_tags": [],
+  "main_use": "Treatment serum for neck and décolletage",
+  "not_suitable_for": ""
+ },
+ "cana-brightening-serum": {
+  "summary_ok": false,
+  "summary_issue": "The description only gives usage instructions and claims no benefits such as evening skin tone.",
+  "better_summary": "Gold and caviar 2-in-1 serum formulated for the face, neck, and under-eye area.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "dark_spots",
+   "dullness"
+  ],
+  "missing_tags": [],
+  "main_use": "Facial and under-eye treatment serum",
+  "not_suitable_for": ""
+ },
+ "cana-eye-serum": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Gold and caviar eye treatment serum that rejuvenates, hydrates, and boosts skin elasticity around eyes.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "dark_circles",
+   "fine_lines"
+  ],
+  "missing_tags": [
+   "dullness",
+   "dryness",
+   "sagging"
+  ],
+  "main_use": "Rejuvenate, hydrate, and improve skin elasticity around the eyes.",
+  "not_suitable_for": ""
+ },
+ "cana-hydro-serum": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Hydro-boosting gold and caviar serum to rejuvenate skin, boost hydration, and enhance radiance.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "fine_lines"
+  ],
+  "missing_tags": [],
+  "main_use": "Rejuvenate, hydrate, and enhance skin radiance daily",
+  "not_suitable_for": ""
+ },
+ "cana-instant-lifting": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Instantly lifts sagging skin, minimizes fine lines, and promotes a smoother, glowing appearance.",
+  "tags_ok": false,
+  "wrong_tags": [],
+  "missing_tags": [
+   "dullness",
+   "texture"
+  ],
+  "main_use": "Instantly lift sagging skin and minimize the appearance of fine lines",
+  "not_suitable_for": ""
+ },
+ "cana-deep-peel": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Peel mask that gently exfoliates dull skin, smooths texture, unclogs pores, and fades fine lines.",
+  "tags_ok": false,
+  "wrong_tags": [],
+  "missing_tags": [
+   "fine_lines",
+   "pores"
+  ],
+  "main_use": "Gentle exfoliating peel mask to smooth texture and clean pores",
+  "not_suitable_for": ""
+ },
+ "cana-collagen-mask": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Collagen mask formulated to boost skin density, increase elasticity, and tighten sagging skin.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "dryness"
+  ],
+  "missing_tags": [
+   "dullness"
+  ],
+  "main_use": "Boosts skin density, tightens skin, and lightens complexion tone.",
+  "not_suitable_for": ""
+ },
+ "cana-oxygen-brightening": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Vitamin-rich brightening and firming treatment that provides intense moisture and fades spots for radiant skin.",
+  "tags_ok": false,
+  "wrong_tags": [],
+  "missing_tags": [
+   "dryness",
+   "sagging"
+  ],
+  "main_use": "Brightening, firming, and hydrating treatment to fade spots and support collagen.",
+  "not_suitable_for": ""
+ },
+ "cana-magnetic-mask": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Rejuvenating 24K magnetic mask that promotes glowing skin, improves elasticity, and smooths fine lines.",
+  "tags_ok": false,
+  "wrong_tags": [],
+  "missing_tags": [
+   "fine_lines",
+   "sagging"
+  ],
+  "main_use": "Rejuvenating magnetic mask to boost elasticity, glow, and reduce premature aging signs.",
+  "not_suitable_for": ""
+ },
+ "cana-rejuvenating-set": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Gentle, nourishing daily 24K gold skincare set that hydrates, adds glow, and prevents fine lines.",
+  "tags_ok": true,
+  "wrong_tags": [],
+  "missing_tags": [],
+  "main_use": "Nourishes, hydrates, prevents fine lines, and protects against environmental damage",
+  "not_suitable_for": ""
+ },
+ "cana-daily-set": {
+  "summary_ok": false,
+  "summary_issue": "The product is a single 2 in 1 daily treatment serum, not a set of products.",
+  "better_summary": "Rejuvenating 24k gold and caviar daily treatment serum that instantly boosts glow and enhances complexion.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "fine_lines"
+  ],
+  "missing_tags": [],
+  "main_use": "Rejuvenating serum to boost glow and enhance skin complexion.",
+  "not_suitable_for": ""
+ },
+ "cana-overnight-set": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Overnight treatment set featuring face, eye contouring, and anti-aging neck and decollete serums.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "dark_circles"
+  ],
+  "missing_tags": [],
+  "main_use": "Overnight anti-aging and contouring treatment for face, eyes, and neck",
+  "not_suitable_for": ""
+ },
+ "cana-pearl-set": {
+  "summary_ok": false,
+  "summary_issue": "The description focuses on the 2 in 1 Caviar and Gold hydro-boosting serum, not a pearl collection.",
+  "better_summary": "Hydrating Caviar and 24K Gold daily treatment serum that reduces the appearance of deep wrinkles.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "sagging"
+  ],
+  "missing_tags": [
+   "dryness"
+  ],
+  "main_use": "Hydrates skin and reduces the appearance of deep wrinkles and lines",
+  "not_suitable_for": ""
+ },
+ "ivybears-boost-immune": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Gummies packed with essential vitamins including B-complex, zinc, vitamins C, D, and E.",
+  "tags_ok": true,
+  "wrong_tags": [],
+  "missing_tags": [],
+  "main_use": "Supports and strengthens the immune system",
+  "not_suitable_for": ""
+ },
+ "ivybears-vibrant-skin": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Collagen and hyaluronic acid gummies to help skin stay vibrant, glowing, and younger-looking.",
+  "tags_ok": true,
+  "wrong_tags": [],
+  "missing_tags": [],
+  "main_use": "Support vibrant, glowing skin and elasticity with collagen and hyaluronic acid",
+  "not_suitable_for": ""
+ },
+ "ivybears-women-hair": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Keratin, folic acid and B-vitamin gummies to support smoother, stronger, and thicker hair.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "hair_fall",
+   "thinning"
+  ],
+  "missing_tags": [],
+  "main_use": "Vitamins formulated to support smoother, stronger, and healthier hair",
+  "not_suitable_for": ""
+ },
+ "ivybears-hair": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Biotin multivitamin gummies for men to strengthen weak hair and support growth.",
+  "tags_ok": false,
+  "wrong_tags": [
+   "hair_fall",
+   "thinning"
+  ],
+  "missing_tags": [],
+  "main_use": "Men's gummy vitamins to support hair growth and reduce hair fall",
+  "not_suitable_for": ""
+ },
+ "ivybears-restful-sleep": {
+  "summary_ok": true,
+  "summary_issue": "",
+  "better_summary": "Gummies formulated to relieve stress and support natural, restful sleep.",
+  "tags_ok": true,
+  "wrong_tags": [],
+  "missing_tags": [],
+  "main_use": "Support natural, restful sleep and relieve stress",
+  "not_suitable_for": ""
+ }
+}

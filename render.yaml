@@ -1,0 +1,41 @@
+services:
+  - type: web
+    name: beauty-backend
+    runtime: python
+    rootDir: backend
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.3
+      - key: AI_PROVIDER
+        value: rule
+      - key: AI_REWRITE
+        value: "true"
+      - key: ADMIN_PASSWORD
+        generateValue: true
+      - key: CORS_ORIGINS
+        value: "*"
+      - key: GEMINI_API_KEY
+        sync: false
+
+  - type: web
+    name: beauty-frontend
+    runtime: node
+    rootDir: frontend
+    plan: free
+    # API_URL is baked into Next's /api rewrite at build time, so it is set for both build and start.
+    buildCommand: export API_URL=http://$API_HOSTPORT && npm install && npm run build
+    startCommand: export API_URL=http://$API_HOSTPORT && npm start
+    envVars:
+      - key: NODE_VERSION
+        value: 20.18.0
+      - key: API_HOSTPORT
+        fromService:
+          type: web
+          name: beauty-backend
+          property: hostport
+      - key: DEMO_BASIC_AUTH
+        sync: false

@@ -1,0 +1,444 @@
+{
+ "_note": "Concern labels and keyword lists for rule-based understanding (EN + AR). Our draft, to be validated by Dr. Shaymaa.",
+ "areas": {
+  "skin": {
+   "en": "Skin",
+   "ar": "البشرة",
+   "kw_en": [
+    "skin",
+    "face",
+    "facial",
+    "complexion",
+    "wrinkle",
+    "pores",
+    "eyes",
+    "eye area",
+    "spots",
+    "pigment",
+    "fine line"
+   ],
+   "kw_ar": [
+    "بشرة",
+    "بشرتي",
+    "وجه",
+    "وجهي",
+    "تجاعيد",
+    "مسام",
+    "بقع",
+    "هالات"
+   ]
+  },
+  "hair": {
+   "en": "Hair",
+   "ar": "الشعر",
+   "kw_en": [
+    "hair",
+    "scalp",
+    "shampoo",
+    "curl",
+    "frizz",
+    "dandruff",
+    "split end"
+   ],
+   "kw_ar": [
+    "شعر",
+    "شعري",
+    "فروة",
+    "قشرة",
+    "شامبو",
+    "تساقط"
+   ]
+  },
+  "supplement": {
+   "en": "Supplements",
+   "ar": "المكملات",
+   "kw_en": [
+    "supplement",
+    "vitamin",
+    "gummies",
+    "gummy",
+    "pill",
+    "tablet",
+    "capsule"
+   ],
+   "kw_ar": [
+    "مكمل",
+    "مكملات",
+    "فيتامين",
+    "فيتامينات",
+    "حبوب",
+    "أقراص"
+   ]
+  }
+ },
+ "concerns": {
+  "skin": {
+   "fine_lines": {
+    "en": "Fine lines & wrinkles",
+    "ar": "الخطوط الدقيقة والتجاعيد",
+    "kw_en": [
+     "fine line",
+     "wrinkle",
+     "aging",
+     "ageing",
+     "anti-aging",
+     "crow's feet",
+     "lines",
+     "little lines",
+     "lines around"
+    ],
+    "kw_ar": [
+     "تجاعيد",
+     "خطوط",
+     "شيخوخة",
+     "علامات التقدم"
+    ]
+   },
+   "dullness": {
+    "en": "Dull, tired skin",
+    "ar": "بشرة باهتة ومتعبة",
+    "kw_en": [
+     "dull",
+     "glow",
+     "radian",
+     "tired skin",
+     "lifeless",
+     "tired",
+     "lacklustre",
+     "lackluster"
+    ],
+    "kw_ar": [
+     "باهتة",
+     "بهتان",
+     "نضارة",
+     "إشراق",
+     "اشراق",
+     "متعبة"
+    ]
+   },
+   "dark_spots": {
+    "en": "Dark spots & uneven tone",
+    "ar": "البقع الداكنة وعدم توحد اللون",
+    "kw_en": [
+     "dark spot",
+     "pigment",
+     "uneven",
+     "melasma",
+     "spots",
+     "brighten",
+     "whiten",
+     "sun spot"
+    ],
+    "kw_ar": [
+     "بقع",
+     "تصبغ",
+     "تصبغات",
+     "تفتيح",
+     "تبييض",
+     "توحيد"
+    ]
+   },
+   "dryness": {
+    "en": "Dryness",
+    "ar": "الجفاف",
+    "kw_en": [
+     "dry",
+     "dehydrat",
+     "tight",
+     "flaky"
+    ],
+    "kw_ar": [
+     "جفاف",
+     "جافة",
+     "جاف"
+    ]
+   },
+   "pores": {
+    "en": "Large pores & oiliness",
+    "ar": "المسام الواسعة والدهون",
+    "kw_en": [
+     "pore",
+     "oily",
+     "blackhead",
+     "shiny"
+    ],
+    "kw_ar": [
+     "مسام",
+     "دهنية",
+     "رؤوس سوداء",
+     "لمعان"
+    ]
+   },
+   "dark_circles": {
+    "en": "Dark circles & puffy eyes",
+    "ar": "الهالات السوداء وانتفاخ العين",
+    "kw_en": [
+     "dark circle",
+     "under eye",
+     "under-eye",
+     "puffy",
+     "eye bag",
+     "around my eyes",
+     "around the eyes",
+     "eyes"
+    ],
+    "kw_ar": [
+     "هالات",
+     "تحت العين",
+     "انتفاخ",
+     "حول العين"
+    ]
+   },
+   "sagging": {
+    "en": "Loss of firmness",
+    "ar": "فقدان المرونة والترهل",
+    "kw_en": [
+     "sag",
+     "firm",
+     "lift",
+     "loose skin",
+     "jowl",
+     "elasticity"
+    ],
+    "kw_ar": [
+     "ترهل",
+     "شد",
+     "مرونة"
+    ]
+   },
+   "texture": {
+    "en": "Rough texture",
+    "ar": "خشونة الملمس",
+    "kw_en": [
+     "texture",
+     "rough",
+     "bumpy",
+     "uneven skin"
+    ],
+    "kw_ar": [
+     "خشونة",
+     "ملمس"
+    ]
+   }
+  },
+  "hair": {
+   "dry_damaged": {
+    "en": "Dry or damaged hair",
+    "ar": "شعر جاف أو تالف",
+    "kw_en": [
+     "dry",
+     "damaged",
+     "damage",
+     "split end",
+     "brittle",
+     "breakage",
+     "straw"
+    ],
+    "kw_ar": [
+     "جاف",
+     "تالف",
+     "متقصف",
+     "تقصف",
+     "متضرر"
+    ]
+   },
+   "colour_treated": {
+    "en": "Colour-treated hair",
+    "ar": "شعر مصبوغ",
+    "kw_en": [
+     "colour",
+     "color",
+     "dyed",
+     "dye",
+     "bleach",
+     "highlight"
+    ],
+    "kw_ar": [
+     "مصبوغ",
+     "صبغ",
+     "صبغة",
+     "الصبغة",
+     "ملون",
+     "تلوين",
+     "سشوار"
+    ]
+   },
+   "frizz": {
+    "en": "Frizz",
+    "ar": "الهيشان والتطاير",
+    "kw_en": [
+     "frizz",
+     "unruly",
+     "puffy hair",
+     "flyaway"
+    ],
+    "kw_ar": [
+     "منفوش",
+     "هايش",
+     "هيشان",
+     "تطاير",
+     "نفشة"
+    ]
+   },
+   "curly": {
+    "en": "Curly or wavy hair",
+    "ar": "شعر كيرلي أو مموج",
+    "kw_en": [
+     "curl",
+     "wavy",
+     "coily"
+    ],
+    "kw_ar": [
+     "كيرلي",
+     "مموج",
+     "مجعد",
+     "ويفي"
+    ]
+   },
+   "flat_volume": {
+    "en": "Flat hair, no volume",
+    "ar": "شعر بدون كثافة أو حجم",
+    "kw_en": [
+     "flat",
+     "volume",
+     "limp",
+     "lifeless hair"
+    ],
+    "kw_ar": [
+     "حجم",
+     "كثافة",
+     "مسطح"
+    ]
+   },
+   "hair_fall": {
+    "en": "Hair fall",
+    "ar": "تساقط الشعر",
+    "kw_en": [
+     "hair fall",
+     "hair loss",
+     "falling",
+     "shedding",
+     "losing hair",
+     "hairfall"
+    ],
+    "kw_ar": [
+     "تساقط",
+     "يتساقط",
+     "يسقط"
+    ]
+   },
+   "dandruff": {
+    "en": "Dandruff",
+    "ar": "القشرة",
+    "kw_en": [
+     "dandruff",
+     "flakes",
+     "itchy scalp",
+     "dandruf",
+     "dandraff",
+     "flaky scalp",
+     "scalp flakes"
+    ],
+    "kw_ar": [
+     "قشرة",
+     "حكة"
+    ]
+   },
+   "thinning": {
+    "en": "Thinning hair",
+    "ar": "خفة الشعر",
+    "kw_en": [
+     "thinning",
+     "thin hair",
+     "bald patch",
+     "weak hair",
+     "thin",
+     "getting thinner",
+     "less hair",
+     "hair is thinner"
+    ],
+    "kw_ar": [
+     "خفيف",
+     "خفة",
+     "فراغات",
+     "ضعيف"
+    ]
+   },
+   "straightening": {
+    "en": "Smoothing or straightening",
+    "ar": "الفرد والتنعيم",
+    "kw_en": [
+     "straight",
+     "smooth",
+     "keratin",
+     "protein",
+     "botox"
+    ],
+    "kw_ar": [
+     "فرد",
+     "بروتين",
+     "كيراتين",
+     "بوتوكس",
+     "تنعيم",
+     "ناعم"
+    ]
+   }
+  },
+  "supplement": {
+   "hair_growth": {
+    "en": "Hair support",
+    "ar": "دعم الشعر",
+    "kw_en": [
+     "hair",
+     "biotin"
+    ],
+    "kw_ar": [
+     "شعر",
+     "بيوتين"
+    ]
+   },
+   "skin_glow": {
+    "en": "Skin glow",
+    "ar": "نضارة البشرة",
+    "kw_en": [
+     "skin",
+     "collagen",
+     "glow"
+    ],
+    "kw_ar": [
+     "بشرة",
+     "كولاجين",
+     "نضارة"
+    ]
+   },
+   "immunity": {
+    "en": "Immunity",
+    "ar": "المناعة",
+    "kw_en": [
+     "immun",
+     "immune",
+     "energy"
+    ],
+    "kw_ar": [
+     "مناعة",
+     "طاقة"
+    ]
+   },
+   "sleep": {
+    "en": "Sleep & stress",
+    "ar": "النوم والتوتر",
+    "kw_en": [
+     "sleep",
+     "insomnia",
+     "stress",
+     "relax"
+    ],
+    "kw_ar": [
+     "نوم",
+     "أرق",
+     "توتر"
+    ]
+   }
+  }
+ }
+}
